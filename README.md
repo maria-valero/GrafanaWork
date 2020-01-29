@@ -15,3 +15,7 @@ python modify.py [NEW_MAC] [DASHBOARD_TO_COPY]
 ### import.sh
 
 ./import [DASHBOARD_NAME]
+
+## Youtube Video Demonstration
+
+https://youtu.be/ozV6PN8qTKA
